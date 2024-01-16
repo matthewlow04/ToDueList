@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "484609BA-BD7B-4376-90C5-AEFD93509FA7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AF34CB5-0C62-4D2E-A663-3FCA0AF37B5F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../var/folders/pd/0y9gdsq131xbs06jrvfcz6h40000gn/T/swift-generated-sources/@__swiftmacro_9ToDueList8TaskItem5ModelfMm_.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "1AF34CB5-0C62-4D2E-A663-3FCA0AF37B5F - 1fd7c264ca4a15b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDueList.TaskItem.init(name: Swift.String, urgency: Swift.String) -&gt; ToDueList.TaskItem"
+                  moduleName = "ToDueList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/pd/0y9gdsq131xbs06jrvfcz6h40000gn/T/swift-generated-sources/@__swiftmacro_9ToDueList8TaskItem5ModelfMm_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2"
+                  endingLineNumber = "2"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "1AF34CB5-0C62-4D2E-A663-3FCA0AF37B5F - 1fd7c264ca4a15b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDueList.TaskItem.init(name: Swift.String, urgency: Swift.String) -&gt; ToDueList.TaskItem"
+                  moduleName = "ToDueList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/pd/0y9gdsq131xbs06jrvfcz6h40000gn/T/swift-generated-sources/@__swiftmacro_9ToDueList8TaskItem5ModelfMm_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2"
+                  endingLineNumber = "2"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "1AF34CB5-0C62-4D2E-A663-3FCA0AF37B5F - 586210213100f87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToDueList.TaskItem.init(name: Swift.String, urgency: ToDueList.TaskItem.Urgency) -&gt; ToDueList.TaskItem"
+                  moduleName = "ToDueList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/pd/0y9gdsq131xbs06jrvfcz6h40000gn/T/swift-generated-sources/@__swiftmacro_9ToDueList8TaskItem5ModelfMm_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "2"
+                  endingLineNumber = "2"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53D9711C-EA65-4DB1-9F44-DC4AFD3572AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../var/folders/pd/0y9gdsq131xbs06jrvfcz6h40000gn/T/swift-generated-sources/@__swiftmacro_9ToDueList8TaskItemC7urgency18_PersistedPropertyfMa_.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
