@@ -7,8 +7,8 @@
 
 import Foundation
 
-func timeLeft(date: Date) -> String {
-    let minutes = Int(date.timeIntervalSinceNow)/60
+func timeLeft(date: Date, dateNow: Date = Date.now) -> String {
+    let minutes = Int(date.timeIntervalSince(dateNow))/60
     let hours = minutes/60
     let days = hours/24
     if days < 0{
@@ -30,6 +30,6 @@ func setDate(month: Int, day: Int, year: Int) -> Date{
     dateFormatter.dateFormat = "yyyy-MM-dd"
     
     let dateString = "\(year)-\(month)-\(day)"
-    let expirationDate = dateFormatter.date(from: dateString)
-    return expirationDate ?? Date.now
+    let date = dateFormatter.date(from: dateString)
+    return date ?? Date.now
 }
